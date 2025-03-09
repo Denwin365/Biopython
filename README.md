@@ -17,6 +17,10 @@ BioPython is a powerful Python library for working with biological data. This re
 * **`examples/`**: General examples of BioPython usage.
 * **`requirements.txt`**: Lists the Python packages required to run the code.
 
+## License
+
+* for LICENCE Check here, [MIT LICENSE](LICENSE)
+
 ## Requirements
 
 To run the code in this repository, you'll need:
