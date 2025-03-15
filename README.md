@@ -16,6 +16,7 @@ BioPython is a powerful Python library for working with biological data. This re
 * **`phylogeny/`**: Code related to phylogenetic analysis and tree construction.
 * **`examples/`**: General examples of BioPython usage.
 * **`requirements.txt`**: Lists the Python packages required to run the code.
+* And much more.
 
 ## License
 
@@ -31,6 +32,4 @@ To run the code in this repository, you'll need:
 * (Potentially) other required libraries as listed in `requirements.txt`
 
 You can install the required packages using pip:
-
-```bash
-pip install -r requirements.txt
+or just use Google CoLab, just like me ;)
